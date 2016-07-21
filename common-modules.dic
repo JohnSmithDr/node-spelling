@@ -14,5 +14,7 @@ minimist
 mongoose
 Mongoose
 redis
+restify
+sqlite
 superagent
 zlib
