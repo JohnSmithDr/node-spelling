@@ -17,4 +17,5 @@ redis
 restify
 sqlite
 superagent
+yaml
 zlib
